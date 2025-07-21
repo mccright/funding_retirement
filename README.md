@@ -445,3 +445,7 @@ I understand (*see NOTE 1 above*) that serious emergency savings may not be prac
 
 ### Wordcloud for this document:  
 <img src="images/Preparing-for-retirement-stopwords-maxfont_96-800x800.png" style="width:800px;height:800px;">
+
+<iframe src="https://www.census.gov/popclock/embed.php?component=counter" width="376" height="815"></iframe>
+
+<iframe src="https://www.census.gov/popclock/embed.php?component=counter" width="376" height="703"></iframe>
