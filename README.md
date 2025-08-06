@@ -329,6 +329,11 @@ If your income flows in retirement are taxed as "income," here is a reminder of 
   * 12% for incomes over $11,925 ($23,850 for married couples filing jointly).  
   * 10% for incomes $11,925 or less ($23,850 or less for married couples filing jointly).  
 
+### Understanding Required Minimum Distributions (RMDs)  
+"You can't keep funds in a traditional IRA (including SEP and SIMPLE IRAs) indefinitely.  Eventually, they must be distributed. If there are no distributions, or if the distributions aren't large enough, you may have to pay an excise tax on the amount not distributed as required." [[IRS Pub. 590-B (2024)](https://www.irs.gov/publications/p590b#en_US_2024_publink100090420)]  
+
+Required Minimum Distributions (RMDs) are the minimum amounts you must withdraw from your traditional IRA, SEP IRA, SIMPLE IRA, and certain other retirement plans once you reach age 73.  If this is interesting or just relevant to you see: [Understanding Required Minimum Distributions](https://mccright.github.io/funding_retirement/minimum_distributions_reminder)  
+
 
 ## Guaranteed Income and the Nature of Your Needs May Impact Investment Withdrawl Rates During Retirement  
 
