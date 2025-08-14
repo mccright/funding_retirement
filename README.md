@@ -266,7 +266,7 @@ How do you know your plan is working?  Identify and then start documenting some 
 1. Figure out how much you need in emergency savings  
 2. Open a savings account just for emergencies  
 3. Make [*and use*]a budget around savings  
-
+And Michelle Singletary [writes about four types of savers](https://wapo.st/4fAIsWI) and offers suggestions for optimizing your emergency savings.  
 
 Think about and plan for how you will react to any changes in household income -- the New York Federal Reserve has publishes research results about [how Americans expect to allocate an increase or decrease in household income (*numbers below are for Apr 2025*)](https://www.newyorkfed.org/microeconomics/sce/household-spending#/expectations-spending-response1):  
 * Response to Income Gain: "Save or invest: 50.6%," "Pay down debts: 31.9%," and "Spend or donate: 17.5%."  
