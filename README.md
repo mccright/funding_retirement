@@ -10,6 +10,8 @@
 * **Manage your risks** -- there are many.  
 * Too many avoid/ignore/delay preparing for this facet of their lives.  Don't become (*or stay*) one of them.  
 
+(*I apologize up front about the length and inefficiencies in the discussion below.  It is mostly a bunch of thoughts initiated by one or another question that emerged in discussions with coworkers or family during ~the last decade.  Someday I will invest in some editing...*)  
+
 
 ## Supporting Discussion  
 Regardless of your current age, all of us are getting older.  
