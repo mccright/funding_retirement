@@ -96,7 +96,7 @@ In their [2025 Modern Wealth Survey](https://content.schwab.com/web/retail/publi
  #### Material Downturns Occur Regularly  
  Below are S&P Bear Markets since 1973 (*as a proxy for the entire market*):  
 |Description       | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Period &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |Percent decline|Months of decline|Months of recovery|
-|:-----------------|-----------------------------------|:-------:|:-----------:|:------------:|
+|:-----------------|-----------------------------------------|:-------:|:---------:|:---------:|
 |1973 Conflict in the Middle East|11 Jan. 1973--17 Jul. 1980|-48% |21 |70 |
 |1980 Stagflation  |28 Nov. 1980--03 Nov. 1982|-27%|20 |3 |
 |1987 Black Monday |25 Aug. 1987--26 Jul. 1989|-34%|3 |20 |
