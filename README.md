@@ -33,9 +33,9 @@ Getting realistic and explicit about financing your retirement is a topic that i
 
 If you're thinking about preparing for retirement, assume that you will never have everything lined up or figured out perfectly before you start.  Retirement planning guru [Wade Pfau has written](https://www.amazon.com/How-Much-Spend-Retirement-Investment-Based-ebook/dp/B076J4NBBZ/) that "Retirees have one opportunity to build a successful plan." (*I am confident Dr. Pfau did not mean this in its most literal reading...*)  But I think that it is more practical to just start planning and acting on that plan **today**, than to attempt plan perfection before plan execution.  Things change.  Constantly.  As is true for virtually any activity that requires you to invest over time, a *secret* to creating lasting momentum is to **start now** and **evolve over time**.  Let time be your ally.  
 
-If you have not already done so, check the Social Security Administration's [Retirement Benefits Estimator](https://www.ssa.gov/benefits/retirement/estimator.html) to get an idea of what your *guaranteed* income stream may be -- or use their [Quick Calculator](https://www.ssa.gov/OACT/quickcalc/) for an estimate, and the same for a [spouse](https://www.ssa.gov/OACT/quickcalc/spouse.html).  For most, it will not be enough to meet your wishes and you will need to cobble together additional means of retirement support over the course of your working life.  
+If you have not already done so, check the Social Security Administration's [Retirement Benefits Estimator](https://www.ssa.gov/benefits/retirement/estimator.html) or sign up at [ssa.gov/myaccount](https://ssa.gov/myaccount) to get an idea of what your *guaranteed* income stream may be -- or use their [Quick Calculator](https://www.ssa.gov/OACT/quickcalc/) for an estimate, and the same for a [spouse](https://www.ssa.gov/OACT/quickcalc/spouse.html).  For most, it will not be enough to meet your wishes and you will need to cobble together additional means of retirement support over the course of your working life.  
 
-Health care also needs to be built into your planning.  Medicare.gov has a lot of useful resources, including this summary of 2024 Medicare costs/expenses](https://www.medicare.gov/Pubs/pdf/11579-Medicare-Costs.pdf) and a tool to help get started finding [Medicare supplemental insurance](https://www.medicare.gov/plan-compare/#/?year=2024&lang=en).  
+Health care also needs to be built into your planning.  Medicare.gov has a lot of useful resources, including this summary of 2026 Medicare costs/expenses](https://www.medicare.gov/Pubs/pdf/11579-Medicare-Costs.pdf) (*the costs may increase with your income*) and a tool to help get started finding [Medicare supplemental insurance](https://www.medicare.gov/plan-compare/#/?year=2024&lang=en).  
 
 ### How do you prepare for retirement?  
 
@@ -96,7 +96,7 @@ In their [2025 Modern Wealth Survey](https://content.schwab.com/web/retail/publi
  #### Material Downturns Occur Regularly  
  Below are S&P Bear Markets since 1973 (*as a proxy for the entire market*):  
 |Description       | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Period &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |Percent decline|Months of decline|Months of recovery|
-|:-----------------|-----------------------------------|:-------:|:-----------:|:------------:|
+|:-----------------|-----------------------------------------|:-------:|:---------:|:---------:|
 |1973 Conflict in the Middle East|11 Jan. 1973--17 Jul. 1980|-48% |21 |70 |
 |1980 Stagflation  |28 Nov. 1980--03 Nov. 1982|-27%|20 |3 |
 |1987 Black Monday |25 Aug. 1987--26 Jul. 1989|-34%|3 |20 |
@@ -508,6 +508,16 @@ The remaining life expectancy is the expected remaining number of years of life 
 * "How to Talk About Money When Only One of You Wants To." https://retirementresearcher.com/how-to-talk-about-money-when-only-one-of-you-wants-to/  
 * The Humble Dollar: https://humbledollar.com/money-guide/retirement/  
 * Risk Tolerance: https://humbledollar.com/money-guide/personal-risk-tolerance/  
+* Bonds:  
+  * "Fixed-Income Security Definition, Types, and Examples." https://www.investopedia.com/terms/f/fixed-incomesecurity.asp  
+  * "Bond Valuation: Calculation and Example." https://www.investopedia.com/terms/b/bond-valuation.asp  
+  * "Understanding Yield vs. Return: Key Differences in Investment Profitability." https://www.investopedia.com/ask/answers/difference-between-yield-and-return/  
+  * "Yield to Maturity (YTM): What It Is and How It Works." https://www.investopedia.com/terms/y/yieldtomaturity.asp  
+  * "Interest-On-Interest Explained: Key Concepts and Calculation." https://www.investopedia.com/terms/i/interestoninterest.asp  
+  * "Running Yield Explained: How to Track Your Investment Returns." https://www.investopedia.com/terms/r/runningyield.asp  
+  * "Treasury Yield Curves Explained: Insights & Implications." https://www.investopedia.com/articles/investing/110714/understanding-treasury-yield-curve-rates.asp  
+  * "Emerging Market Bonds: High-Yield Opportunities for Savvy Investors." https://www.investopedia.com/articles/bonds/09/emerging-market-bonds.asp  
+  * "The History of High-Yield Bond Meltdowns." https://www.investopedia.com/articles/investing/022616/history-high-yield-bond-meltdowns.asp  
 
 
 ### Random Unfinished Thoughts  
