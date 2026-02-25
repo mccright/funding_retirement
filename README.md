@@ -508,6 +508,16 @@ The remaining life expectancy is the expected remaining number of years of life 
 * "How to Talk About Money When Only One of You Wants To." https://retirementresearcher.com/how-to-talk-about-money-when-only-one-of-you-wants-to/  
 * The Humble Dollar: https://humbledollar.com/money-guide/retirement/  
 * Risk Tolerance: https://humbledollar.com/money-guide/personal-risk-tolerance/  
+* Bonds:  
+  * "Fixed-Income Security Definition, Types, and Examples." https://www.investopedia.com/terms/f/fixed-incomesecurity.asp  
+  * "Bond Valuation: Calculation and Example." https://www.investopedia.com/terms/b/bond-valuation.asp  
+  * "Understanding Yield vs. Return: Key Differences in Investment Profitability." https://www.investopedia.com/ask/answers/difference-between-yield-and-return/  
+  * "Yield to Maturity (YTM): What It Is and How It Works." https://www.investopedia.com/terms/y/yieldtomaturity.asp  
+  * "Interest-On-Interest Explained: Key Concepts and Calculation." https://www.investopedia.com/terms/i/interestoninterest.asp  
+  * "Running Yield Explained: How to Track Your Investment Returns." https://www.investopedia.com/terms/r/runningyield.asp  
+  * "Treasury Yield Curves Explained: Insights & Implications." https://www.investopedia.com/articles/investing/110714/understanding-treasury-yield-curve-rates.asp  
+  * "Emerging Market Bonds: High-Yield Opportunities for Savvy Investors." https://www.investopedia.com/articles/bonds/09/emerging-market-bonds.asp  
+  * "The History of High-Yield Bond Meltdowns." https://www.investopedia.com/articles/investing/022616/history-high-yield-bond-meltdowns.asp  
 
 
 ### Random Unfinished Thoughts  
