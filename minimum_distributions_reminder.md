@@ -9,6 +9,7 @@ Required Minimum Distributions (RMDs) are the minimum amounts you must withdraw 
 As of Summer 2025...  
 * You must begin taking RMDs by April 1 of the year following the year you turn 73.  
 * If you delay your first RMD until April 1, you will need to take a second RMD by December 31 of the same year.  
+For more detailed information about when to start taking RMDs see: [Required Minimum Distributions for Account Owners](https://www.irs.gov/retirement-plans/rmd-comparison-chart-iras-vs-defined-contribution-plans)  
 
 ### How to Calculate Your RMD  
 
@@ -39,7 +40,7 @@ NOTE: FINRA (*Financial Industry Regulatory Authority*) also provides an easy-to
 
 ### Special Considerations  
 
-* RMD rules do not apply to Roth IRAs while the owner is alive.  
+* **RMD rules [do not apply to Roth IRAs](https://www.irs.gov/retirement-plans/rmd-comparison-chart-iras-vs-defined-contribution-plans) while the owner is alive**.  
 * If you have multiple IRAs, you can total the RMDs and withdraw from one account, but for employer-sponsored plans, you must take RMDs from each plan separately.  
 
 Make sure to check the IRS guidelines annually for any updates on RMD calculations and requirements.  
@@ -53,4 +54,4 @@ Make sure to check the IRS guidelines annually for any updates on RMD calculatio
 * "IRS - About Publication 590-B, Distributions from Individual Retirement Arrangements (IRAs)." https://www.irs.gov/forms-pubs/about-publication-590-b  
 * "Calculating your RMD." [https://www.capitalgroup.com/...rmd/how-to-calculate.html](https://www.capitalgroup.com/individual/service-and-support/rmd/how-to-calculate.html)  
 * "IRS uniform lifetime table." [https://www.capitalgroup.com/.../irs-uniform-lifetime-table.html](https://www.capitalgroup.com/individual/service-and-support/rmd/how-to-calculate/irs-uniform-lifetime-table.html)  
-* FINRA "Required Minimum Distribution Calculator." https://rmdcalculator.nga.finra.org/  
+* FINRA "Required Minimum Distribution Calculator." at [rmdcalculator.nga.finra.org/](https://rmdcalculator.nga.finra.org/)  or U.S. SEC "Required Minimum Distribution Calculator." at [investor.gov/.../required-minimum-distribution-calculator](https://www.investor.gov/financial-tools-calculators/calculators/required-minimum-distribution-calculator)  
