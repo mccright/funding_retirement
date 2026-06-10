@@ -1,16 +1,16 @@
 # Preparing for Retirement  
 
 ## TLDR:  
-* Most of us want to '*retire*' someday.  
+* Most of us want to '*[retire](https://en.wikipedia.org/wiki/Retirement)*' someday.  
 * Funding that retirement -- providing a future income stream -- requires long term planning **as well as daily, weekly & yearly execution** throughout your adult life.  
   * There are systemic impediments for many -- but that does not reduce the criticality of preparing for retirement.  
-  * Inflation is a reality, as are market downturns and emergency expenses, so include them in your planning assumptions.  
+  * [Inflation](https://en.wikipedia.org/wiki/Inflation) is a reality, as are [market downturns](https://en.wikipedia.org/wiki/Category:Stock_market_crashes_in_the_United_States) and [emergency expenses](https://en.wikipedia.org/wiki/Emergency_fund), so include them in your [planning](https://en.wikipedia.org/wiki/Financial_plan) assumptions.  
   * Under many circumstances, income is taxed.  Factor that expense into building your retirement income stream.  
 * Start retirement preparations early (*or if you are already beyond 'early,' start now*)!  Each of us will make constellations of decisions -- education, career choices, savings, investing, spending, borrowing, etc. -- that materially impact our *retirement readiness*.  
 * **Manage your risks** -- there are many.  
 * Too many avoid/ignore/delay preparing for this facet of their lives.  Don't become (*or stay*) one of them.  
 
-(*I apologize up front about the length and inefficiencies in the discussion below.  It is mostly a bunch of thoughts initiated by one or another question that emerged in discussions with coworkers or family during ~the last decade.  Someday I will invest in some editing...*)  
+<small>(*I apologize up front about the length and inefficiencies in the discussion below.  It is mostly a bunch of thoughts initiated by one or another question that emerged in discussions with coworkers or family during the ~last decade.  Someday I will invest in some editing...*)</small>  
 
 
 ## Supporting Discussion  
@@ -326,7 +326,7 @@ When you approach or enter *retirement,* your willingness to assume risks in equ
 |Assets| 1.0% | 1.25%| 1.5% | 1.75%| 2.0% | 2.5% | 3.0% | 3.5% | 4.0% | 4.5% | 5.0% | 5.5% | 6.0% |Assets|
 
 
-Some individuals and families have retirement cash flow expectations of $150,000/yr, $200,000/yr, $300,000/yr, and some even more.  I included some *big* numbers in the Assets column above to help demonstrate the scale of preparation required to support income streams like that.  I read that too often, individuals spending at these levels in retirement have not constructed the required financial foundation, and burn through material portions of their retirement funds before aknowledging that situation -- leaving them seriously financially challenged for the duration of their life.  My working assumption is that is not where any of us want to land.  
+Some individuals and families have retirement cash flow expectations of $150,000/yr, $200,000/yr, $300,000/yr, and some even more.  I included some *big* numbers in the Assets column above to help demonstrate the scale of preparation required to support income streams like that.  I read that too often, individuals spending at these levels in retirement have not constructed the required financial foundation, and burn through material portions of their retirement funds before aknowledging that situation -- leaving them seriously financially challenged for the duration of their life.  My working assumption is -- that is not where any of us want to land.  
 
 Those upper rows refer to **material** wealth.  Who has that kind of money?<sup>[Note 6](#note_6)]</sup>  Most don't.  While there have been recent wage increases, [over the past 40 years wages have stagnated against the cost of living for most Americans](https://www.pewresearch.org/fact-tank/2018/08/07/for-most-us-workers-real-wages-have-barely-budged-for-decades/).  And the proportion of the U.S. population who have accumulated $1.2 million or more has shrunk and the distance between the median wealth and entry into the top 9.9% has more than doubled in the last 6 decades.   
 In "The 9.9 Percent," Matthew Stewart noted that in 1963, the median household would have needed 10 times as much wealth to reach the middle of the (*top*) 9.9 percent. Today (*2020 or 2021*), it would need 24 times as much wealth.  
