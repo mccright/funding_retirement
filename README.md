@@ -5,9 +5,9 @@
 * Funding that retirement -- providing a future income stream -- requires long term planning **as well as daily, weekly & yearly execution** throughout your adult life.  
   * There are systemic impediments for many -- but that does not reduce the criticality of preparing for retirement.  
   * [Inflation](https://en.wikipedia.org/wiki/Inflation) is a reality, as are [market downturns](https://en.wikipedia.org/wiki/Category:Stock_market_crashes_in_the_United_States) and [emergency expenses](https://en.wikipedia.org/wiki/Emergency_fund), so include them in your [planning](https://en.wikipedia.org/wiki/Financial_plan) assumptions.  
-  * Under many circumstances, income is taxed.  Factor that expense into building your retirement income stream.  
-* Start retirement preparations early (*or if you are already beyond 'early,' start now*)!  Each of us will make constellations of decisions -- education, career choices, savings, investing, spending, borrowing, etc. -- that materially impact our *retirement readiness*.  
-* **Manage your risks** -- there are many.  
+  * Under many circumstances, [income is taxed](https://en.wikipedia.org/wiki/Income_tax_in_the_United_States).  Factor that expense into building your retirement income stream.  
+* Start retirement preparations [early](https://en.wikipedia.org/wiki/Compound_interest) (*or if you are already beyond 'early,' start now*)!  Each of us will make constellations of decisions -- education, career choices, savings, investing, spending, borrowing, etc. -- that materially impact our *retirement readiness*.  
+* **Manage your risks** -- [there are many](https://en.wikipedia.org/wiki/Financial_risk).  
 * Too many avoid/ignore/delay preparing for this facet of their lives.  Don't become (*or stay*) one of them.  
 
 <small>(*I apologize up front about the length and inefficiencies in the discussion below.  It is mostly a bunch of thoughts initiated by one or another question that emerged in discussions with coworkers or family during the ~last decade.  Someday I will invest in some editing...*)</small>  
@@ -506,6 +506,8 @@ The remaining life expectancy is the expected remaining number of years of life 
 ### Resources to Review  
 * https://www.wadepfau.com/  
 * https://www.rogerwhitney.com/blog  
+* "In Retirement, You May Not Need to Spend So Much." https://www.nytimes.com/2022/09/28/opinion/retirement-spending.html  
+* "The Retirement Maneuver More People Should Be Making." https://www.nytimes.com/2025/01/31/opinion/retirement-roth-conversion.html  
 * RISA® (Retirement Income Style Awareness) "assessment designed to help you more clearly understand which retirement income strategies align most closely with your preferences." https://risaprofile.com/  
 * "How to Talk About Money When Only One of You Wants To." https://retirementresearcher.com/how-to-talk-about-money-when-only-one-of-you-wants-to/  
 * The Humble Dollar: https://humbledollar.com/money-guide/retirement/  
