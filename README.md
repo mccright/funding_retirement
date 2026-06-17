@@ -492,16 +492,20 @@ In September 2024, [TIAA Institute research found](https://www.tiaa.org/public/i
 The [median average credit card interest rate for March (2025) is 24.2 percent](https://www.washingtonpost.com/business/2025/03/14/tips-prepare-recession-economy-trump/), according to Investopedia.  
 
 I understand (*see NOTE 1 above*) that serious emergency savings may not be practical for everyone, but keep the need to fund some emergency savings in whatever planning you establish.  
-<a name="note_5"></a>
+<a name="note_5"></a>  
+
 **Note 5**: I am aware of what *may be* at least one long term *exception* -- U.S. [Series I Savings Bonds](https://treasurydirect.gov/indiv/research/indepth/ibonds/res_ibonds_ibuy.htm).  They are inflation indexed and were [paying 9.62% in the period May 1, 2022 to October 31, 2022](https://treasurydirect.gov/indiv/research/indepth/ibonds/res_ibonds.htm#irate).  See: [https://www.treasurydirect.gov/indiv/products/prod_ibonds_glance.htm](https://www.treasurydirect.gov/indiv/products/prod_ibonds_glance.htm) as well as a couple articles for context at [https://www.washingtonpost.com/business/2022/05/03/inflation-government-i-savings-bonds/](https://www.washingtonpost.com/business/2022/05/03/inflation-government-i-savings-bonds/) and [https://www.washingtonpost.com/business/2022/07/20/buying-inflation-indexed-i-bonds/](https://www.washingtonpost.com/business/2022/07/20/buying-inflation-indexed-i-bonds/)  
-<a name="note_6"></a>
+<a name="note_6"></a>  
+
 **Note 6**: [David Streitfeld wrote in May 2022](https://www.nytimes.com/2022/05/10/business/economy-boom-times.html) that "There are 22 million U.S. millionaires, Credit Suisse estimates, up from fewer than 15 million in 2014."  In their [Global Wealth Report 2025](https://www.ubs.com/us/en/wealth-management/insights/global-wealth-report.html) UBS researchers said that there were 23.8 million U.S. millionaires at the end of 2024 -- which was almost 40% of the world's total (*page 21*).  
+
 <a name="note_7"></a>
-**Note 7**: 'Average [life expectancy](https://en.wikipedia.org/wiki/Life_expectancy)' and mortality are interesting topics.  Most of us can influence how long we may live.  How we eat, work, interact with those around us, and more can have material impacts on our longevity.  Looking at a mortality table can be eye-opening for anyone who *just doesn't think about how long they will live*.  For a recent example see: "Provisional Life Expectancy Estimates for 2021." By Elizabeth Arias, Ph.D., Betzaida Tejada-Vera, M.S., Kenneth D. Kochanek, M.A., and Farida B. Ahmad, M.P.H.; 2022-08-31 [https://www.cdc.gov/nchs/data/vsrr/vsrr023.pdf](https://www.cdc.gov/nchs/data/vsrr/vsrr023.pdf).  See your "life expectancy, by age, race and Hispanic origin, and sex: United States, 2021" in the table on page 2 (*at the time of writing, it says I am expected to live another roughly 17 years*).  
+**Note 7**: 'Average [life expectancy](https://en.wikipedia.org/wiki/Life_expectancy)' and mortality are interesting topics.  Most of us can influence how long we may live.  How we eat, work, interact with those around us, and more can have material impacts on our longevity.  Looking at a mortality table can be eye-opening for anyone who *just doesn't think about how long they will live*.  For a recent example see: "[Provisional Life Expectancy Estimates for 2021](https://www.cdc.gov/nchs/data/vsrr/vsrr023.pdf)." By Elizabeth Arias, Ph.D., Betzaida Tejada-Vera, M.S., Kenneth D. Kochanek, M.A., and Farida B. Ahmad, M.P.H.; 2022-08-31.  See your "life expectancy, by age, race and Hispanic origin, and sex: United States, 2021" in the table on page 2 (*at the time of writing, it says I am expected to live another roughly 17 years*).  
 >Life expectancy at birth for males in 2021 was 73.2 years, representing a decline of 1.0 year from 74.2 years in 2020. For females, life expectancy declined to 79.1 years, decreasing 0.8 year from 79.9 years in 2020  
 
-<img src="images/20200101_Remaining_life_expectancy_US.svg" style="width:500px;height:500px;">  
-The remaining life expectancy is the expected remaining number of years of life as a function of current age, [2020 statistics](https://www.ssa.gov/oact/STATS/table4c6.html). Life expectancy at birth is indicated above the "0" current age. From: [Wikipedia](https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_life_expectancy)  
+<img src="images/20200101_Remaining_life_expectancy_US.svg" style="width:500px;height:575px;">  
+
+The remaining life expectancy is the projected remaining number of years of life as a function of current age, [2020 statistics](https://www.ssa.gov/oact/STATS/table4c6.html). Life expectancy at birth is indicated above the "0" current age. From: [Wikipedia](https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_life_expectancy)  
 
 ### Resources to Review  
 * https://www.wadepfau.com/  
