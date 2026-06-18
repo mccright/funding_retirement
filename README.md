@@ -503,7 +503,7 @@ I understand (*see NOTE 1 above*) that serious emergency savings may not be prac
 **Note 7**: 'Average [life expectancy](https://en.wikipedia.org/wiki/Life_expectancy)' and mortality are interesting topics.  Most of us can influence how long we may live.  How we eat, work, interact with those around us, and more can have material impacts on our longevity.  Looking at a mortality table can be eye-opening for anyone who *just doesn't think about how long they will live*.  For a recent example see: "[Provisional Life Expectancy Estimates for 2021](https://www.cdc.gov/nchs/data/vsrr/vsrr023.pdf)." By Elizabeth Arias, Ph.D., Betzaida Tejada-Vera, M.S., Kenneth D. Kochanek, M.A., and Farida B. Ahmad, M.P.H.; 2022-08-31.  See your "life expectancy, by age, race and Hispanic origin, and sex: United States, 2021" in the table on page 2 (*at the time of writing, it says I am expected to live another roughly 17 years*).  
 >Life expectancy at birth for males in 2021 was 73.2 years, representing a decline of 1.0 year from 74.2 years in 2020. For females, life expectancy declined to 79.1 years, decreasing 0.8 year from 79.9 years in 2020  
 
-<img src="images/20200101_Remaining_life_expectancy_US.svg" style="width:500px;height:575px;">  
+<img src="images/20200101_Remaining_life_expectancy_US.svg" style="width:500px;height:425px;">  
 
 The remaining life expectancy is the projected remaining number of years of life as a function of current age, [2020 statistics](https://www.ssa.gov/oact/STATS/table4c6.html). Life expectancy at birth is indicated above the "0" current age. From: [Wikipedia](https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_life_expectancy)  
 
