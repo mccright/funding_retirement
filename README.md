@@ -143,7 +143,8 @@ Below are S&P Bear Markets since 1973 (*as a proxy for the entire market*):
 | July 1990 (1990Q3) |March 1991 (1991Q1) |8 |92 |100 |108 |
 | March 2001 (2001Q1) |November 2001 (2001Q4) |8 |120 |128 |128 |
 | December 2007 (2007Q4) |June 2009 (2009Q2) |18 |73 |91 |81 |
-| February 2020 (2019Q4) |April 2020 (2020Q2) |2 |128 |130 |146
+| February 2020 (2019Q4) |April 2020 (2020Q2) |2 |128 |130 |146 |
+
 From: [nber.org/research/data/us-business-cycle-expansions-and-contractions](https://www.nber.org/research/data/us-business-cycle-expansions-and-contractions)  
 
 
@@ -188,7 +189,7 @@ I understand that not everyone on this journey starts in equal circumstances.  T
 | Reporter | Average Annual | Median Annual |
 |:---------|:--------------:|:-----------:|
 | 2025 SSA | Not Avail. | Not Avail. |
-| 2025 BLS | Not Avail. | Not Avail. |
+| 2025 BLS | $69,770 | $50,980 |
 | 2024 SSA | $69,846 | Not Avail. |
 | 2024 BLS | $67,920 | $49,500 |
 | 2023 SSA | $63,932 | $43,222 |
