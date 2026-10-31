@@ -188,7 +188,7 @@ I understand that not everyone on this journey starts in equal circumstances.  T
 
 | Reporter | Average Annual | Median Annual |
 |:---------|:--------------:|:-----------:|
-| 2025 SSA | Not Avail. | Not Avail. |
+| 2025 SSA | $72,800 | Not Avail. |
 | 2025 BLS | $69,770 | $50,980 |
 | 2024 SSA | $69,846 | Not Avail. |
 | 2024 BLS | $67,920 | $49,500 |
@@ -199,7 +199,7 @@ I understand that not everyone on this journey starts in equal circumstances.  T
 | 2021 SSA | $58,129 | $37,586 |
 | 2021 BLS | $58,260 | $45,760 |
 
-Sources: [Average and Median Amounts of Net Compensation](https://www.ssa.gov/oact/cola/central.html) and [Occupational Employment and Wage Statistics (OEWS) Tables](https://www.bls.gov/oes/tables.htm#00-0000) sanity checked against U.S. Census data: [Income in the United States: 2023](https://www.census.gov/library/publications/2024/demo/p60-282.html) and [Wealth of Households: 2022](https://www.census.gov/library/publications/2024/demo/p70br-202.html). The 2024 SSA average value is from the [SSA COLA AWI Series](https://www.ssa.gov/oact/cola/awiseries.html) and will be updated when/if the SSA updates the [Average and Median Amounts of Net Compensation](https://www.ssa.gov/oact/cola/central.html) numbers for 2024 (*still not available, 1 Nov 2025*).  
+Sources: [Average and Median Amounts of Net Compensation](https://www.ssa.gov/oact/cola/central.html) and [Occupational Employment and Wage Statistics (OEWS) Tables](https://www.bls.gov/oes/tables.htm#00-0000) sanity checked against U.S. Census data: [Income in the United States: 2023](https://www.census.gov/library/publications/2024/demo/p60-282.html) and [Wealth of Households: 2022](https://www.census.gov/library/publications/2024/demo/p70br-202.html). The 2024 and 2025 SSA average values are from the [SSA COLA AWI Series](https://www.ssa.gov/oact/cola/awiseries.html) and will be updated when/if the SSA updates the [Average and Median Amounts of Net Compensation](https://www.ssa.gov/oact/cola/central.html) numbers for 2024 and 2025 (*still not available, 27 Oct 2026*).  
 
 
 Assembling a diverse portfolio requires resources.  
@@ -304,7 +304,7 @@ Again, these numbers can seem like a challenge in isolation.  But for many who r
 |$150,000 | $1,500,000 | $2,250,000 | $3,000,000 | $3,750,000|
 
 
-For many, a material component of your retirement readiness equation is your spending behaviors.  As of Q1 2026 America's household debt is around a staggering [$18.8 trillion](https://www.newyorkfed.org/microeconomics/hhdc.html).  
+For many, a material component of your retirement readiness equation is your spending behaviors.  As of Q2 2026 America's household debt is around a staggering [$18.8 trillion](https://www.newyorkfed.org/microeconomics/hhdc.html) ($13.58 trillion in housing debt and $5.19 in non-housing debt).  
 
 In October 2023, Cora Lewis (Associated Press) [reported](https://apnews.com/article/inflation-debt-poll-personal-finance-economy-dd4c88e2076d1fd3f85c51fb8992583b) that "about 2 in 3 Americans say their household expenses have risen over the last year, but only about 1 in 4 say their income has increased in the same period, according to a new poll from The Associated Press-NORC Center for Public Affairs Research." She added that "About 8 in 10 Americans say their overall household debt is higher or about the same as it was a year ago. About half say they currently have credit card debt, 4 in 10 are dealing with auto loans, and about 1 in 4 have medical debt. Just 15% say their household savings have increased over the last year."  Inflation, debt and savings are key facets of individual and family money management.  
 Also see the Urban Institute's "[American Affordability Tracker](https://www.urban.org/data-tools/american-affordability-tracker)."
