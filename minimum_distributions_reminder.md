@@ -1,12 +1,15 @@
 # Understanding Required Minimum Distributions (RMDs)  
 
-"**You can't keep funds in a traditional IRA (including SEP and SIMPLE IRAs) indefinitely.  Eventually, they must be distributed. If there are no distributions, or if the distributions aren't large enough, you may have to pay an excise tax on the amount not distributed as required.**" [[IRS Pub. 590-B (2024)](https://www.irs.gov/publications/p590b#en_US_2024_publink100090420)]  
+"**You can't keep funds in a traditional IRA (including SEP and SIMPLE IRAs) indefinitely.  Eventually, they must be distributed. If there are no distributions, or if the distributions aren't large enough, you may have to pay an excise tax on the amount not distributed as required.**" [[IRS Pub. 590-B (2024)](https://www.irs.gov/publications/p590b#en_US_2025_publink100090420)]  
 
 Required Minimum Distributions (RMDs) are the minimum amounts you must withdraw from your traditional IRA, SEP IRA, SIMPLE IRA, and certain other retirement plans once you reach age 73.  
 
+Federal rules evolve, **check the IRS guidelines annually for any updates** on RMD calculations and requirements.  Try [Publication 590-B, Distributions from Individual Retirement Arrangements (IRAs)](https://www.irs.gov/publications/p590b) and search for "Required Minimum Distributions" and "RMD"  
+
+
 ### When to Start Taking RMDs  
 
-As of Summer 2025...  
+As of Fall 2025...  
 * You must begin taking RMDs by April 1 of the year following the year you turn 73.  
 * If you delay your first RMD until April 1, you will need to take a second RMD by December 31 of the same year.  
 For more detailed information about when to start taking RMDs see: [Required Minimum Distributions for Account Owners](https://www.irs.gov/retirement-plans/rmd-comparison-chart-iras-vs-defined-contribution-plans)  
@@ -17,7 +20,7 @@ To calculate your RMD (*in 2025*), follow these steps:
 
 Determine Your Account Balance: Find the balance of your retirement account as of December 31 of the previous year.  
 
-Use the [IRS Life Expectancy Factor](https://www.irs.gov/publications/p590b#en_US_2024_publink100090068): Divide your account balance by the life expectancy factor from the IRS's Uniform Lifetime Table (*for Unmarried Owners, Married Owners Whose Spouses Aren't More Than 10 Years Younger, and Married Owners Whose Spouses Aren't the Sole Beneficiaries of Their IRAs*). This factor is based on your age.  
+Use the [IRS Life Expectancy Factor](https://www.irs.gov/publications/p590b#en_US_2025_publink100090068): Divide your account balance by the life expectancy factor from the IRS's Uniform Lifetime Table (*for Unmarried Owners, Married Owners Whose Spouses Aren't More Than 10 Years Younger, and Married Owners Whose Spouses Aren't the Sole Beneficiaries of Their IRAs*). This factor is based on your age.  
 
 **Example Calculations**  
 |Age | Account Balance | Life Expectancy Factor |  RMD Calculation  |    RMD    |
@@ -28,7 +31,7 @@ Use the [IRS Life Expectancy Factor](https://www.irs.gov/publications/p590b#en_U
 | 76 |    $221,736     |          23.7          | $221,736 ÷ 23.7 = | $9,355.95 |
 | 77 |    $212,380     |          22.9          | $212,380 ÷ 22.9 = | $9,274.23 |
 
-FROM: "[Publication 590-B (2024), Distributions from Individual Retirement Arrangements (IRAs)](https://www.irs.gov/publications/p590b)" -- "[Appendix B. Uniform Lifetime Table.](https://www.irs.gov/publications/p590b#en_US_2024_publink100090310)" and ["Miscellaneous Rules for Required Minimum Distributions"](https://www.irs.gov/publications/p590b#en_US_2024_publink100090430)  
+FROM: "[Publication 590-B (2024), Distributions from Individual Retirement Arrangements (IRAs)](https://www.irs.gov/publications/p590b)" -- "[Appendix B. Uniform Lifetime Table.](https://www.irs.gov/publications/p590b#en_US_2025_publink100090310)" and ["Miscellaneous Rules for Required Minimum Distributions"](https://www.irs.gov/publications/p590b#en_US_2025_publink100090430)  
 
 NOTE: FINRA (*Financial Industry Regulatory Authority*) also provides an easy-to-use RMD calculator at: https://rmdcalculator.nga.finra.org/  
 
@@ -43,7 +46,7 @@ NOTE: FINRA (*Financial Industry Regulatory Authority*) also provides an easy-to
 * **RMD rules [do not apply to Roth IRAs](https://www.irs.gov/retirement-plans/rmd-comparison-chart-iras-vs-defined-contribution-plans) while the owner is alive**.  
 * If you have multiple IRAs, you can total the RMDs and withdraw from one account, but for employer-sponsored plans, you must take RMDs from each plan separately.  
 
-Make sure to check the IRS guidelines annually for any updates on RMD calculations and requirements.  
+#### Make sure to check the IRS guidelines annually for any updates on RMD calculations and requirements.  
 
 ### REFERENCES:  
 
